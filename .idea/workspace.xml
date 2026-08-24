@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bde767c3-b761-4b3a-ae6c-eadc16ccd84c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/browser/async/javascript-async-interview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/browser/async/javascript-async-practice.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/browser/critical-render-path/critical-render-path.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/browser/storages/storages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/languages/js/javascript-data-types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/cdn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/cookie-flags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/dns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/http/http-caching.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/http/http-https.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/http/http-methods.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/tcp-udp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nets/tls.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="4" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alekseishmidko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alekseishmidko/interview.git",
+    "accountId": "cfc2eb5f-a08b-4caf-ab42-70b4ce28309f"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3ILpfK1oQTvAq3fCn9jmTL797hs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/alexeishmidko/webstorm/interview/frontend/languages/js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "duplicates.index",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/languages/js" />
+      <recent name="$PROJECT_DIR$/frontend/nets" />
+      <recent name="$PROJECT_DIR$/frontend/browser/storages" />
+      <recent name="$PROJECT_DIR$/frontend/browser/async" />
+      <recent name="$PROJECT_DIR$/frontend/browser/critical-render-path" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/nets/http" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.27258.45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde767c3-b761-4b3a-ae6c-eadc16ccd84c" name="Changes" comment="" />
+      <created>1740228758118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740228758118</updated>
+      <workItem from="1740228759333" duration="283000" />
+      <workItem from="1787553805585" duration="11358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

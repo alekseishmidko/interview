@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde767c3-b761-4b3a-ae6c-eadc16ccd84c" name="Changes" comment="документация">
-      <change afterPath="$PROJECT_DIR$/frontend/languages/js/dom-events.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/languages/js/variables-hoisting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/languages/js/javascript-context-this.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="19" />
+    <option name="cachedIndexableFilesCount" value="21" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -155,7 +154,8 @@
       <workItem from="1787553805585" duration="11518000" />
       <workItem from="1787642096630" duration="3538000" />
       <workItem from="1787675598679" duration="389000" />
-      <workItem from="1787723395137" duration="4865000" />
+      <workItem from="1787723395137" duration="4984000" />
+      <workItem from="1787814837306" duration="2600000" />
     </task>
     <task id="LOCAL-00001" summary="документация">
       <option name="closed" value="true" />
@@ -173,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787676638095</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="документация">
+      <option name="closed" value="true" />
+      <created>1787759095075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787759095075</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

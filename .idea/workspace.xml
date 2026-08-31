@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde767c3-b761-4b3a-ae6c-eadc16ccd84c" name="Changes" comment="документация">
-      <change afterPath="$PROJECT_DIR$/frontend/languages/js/javascript-context-this.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/languages/js/javascript-inheritance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/languages/ts/typescript-as-vs-satisfies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/languages/ts/typescript-type-vs-interface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/languages/ts/typescript-type.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="21" />
+    <option name="cachedIndexableFilesCount" value="22" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,61 +40,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000875216826182" />
-      <entry key="MS500" value="1.1543203258616923" />
-      <entry key="S2" value="1.6267665102203452" />
-      <entry key="S5" value="1.8295495138952997" />
-      <entry key="S10" value="1.9107960879885793" />
-      <entry key="S30" value="1.969334608670216" />
-      <entry key="S60" value="1.9845479209618069" />
-      <entry key="M2" value="1.992243881796107" />
-      <entry key="M5" value="1.9968903038210886" />
-      <entry key="M10" value="1.9984439412511295" />
-      <entry key="M15" value="1.9989623582790983" />
-      <entry key="M30" value="1.9994810444821345" />
-      <entry key="H1" value="1.9997404885679755" />
-      <entry key="H2" value="1.9998702358646225" />
-      <entry key="H4" value="1.9999351158273333" />
-      <entry key="D1" value="1.9999891856788525" />
-      <entry key="W1" value="1.9999984550898189" />
+      <entry key="MS100" value="3.3353511105864013E-4" />
+      <entry key="MS500" value="0.23278074458973338" />
+      <entry key="S2" value="1.0901352943265503" />
+      <entry key="S5" value="1.5588568599615817" />
+      <entry key="S10" value="1.7637839201947316" />
+      <entry key="S30" value="1.9174756534428112" />
+      <entry key="S60" value="1.958243812103175" />
+      <entry key="M2" value="1.9789967822586625" />
+      <entry key="M5" value="1.9915684732388896" />
+      <entry key="M10" value="1.9957791790706474" />
+      <entry key="M15" value="1.9971849941727562" />
+      <entry key="M30" value="1.9985919341551799" />
+      <entry key="H1" value="1.9992958262833749" />
+      <entry key="H2" value="1.999647877935454" />
+      <entry key="H4" value="1.9998239301652083" />
+      <entry key="D1" value="1.9999706538048811" />
+      <entry key="W1" value="1.9999958076564681" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9593457799426219" />
-      <entry key="MS500" value="1.1439124830711667" />
-      <entry key="S2" value="1.622520781825739" />
-      <entry key="S5" value="1.8275688800464325" />
-      <entry key="S10" value="1.9097491891561624" />
-      <entry key="S30" value="1.9689720508637067" />
-      <entry key="S60" value="1.9843648757796315" />
-      <entry key="M2" value="1.9921519124388158" />
-      <entry key="M5" value="1.996853408182873" />
-      <entry key="M10" value="1.998425475393258" />
-      <entry key="M15" value="1.9989500436943966" />
-      <entry key="M30" value="1.9994748851823456" />
-      <entry key="H1" value="1.9997374084160255" />
-      <entry key="H2" value="1.999868695663109" />
-      <entry key="H4" value="1.999934345695189" />
-      <entry key="D1" value="1.9999890573191355" />
-      <entry key="W1" value="1.9999984367526098" />
+      <entry key="MS100" value="6.534534209725242E-4" />
+      <entry key="MS500" value="0.4323423342407007" />
+      <entry key="S2" value="1.757414138053444" />
+      <entry key="S5" value="2.409213367661015" />
+      <entry key="S10" value="2.6858799135577742" />
+      <entry key="S30" value="2.89078940583259" />
+      <entry key="S60" value="2.9448087341832423" />
+      <entry key="M2" value="2.972256088148721" />
+      <entry key="M5" value="2.9888666168766522" />
+      <entry key="M10" value="2.9944273193064683" />
+      <entry key="M15" value="2.9962835471781917" />
+      <entry key="M30" value="2.998141107048656" />
+      <entry key="H1" value="2.999070386821547" />
+      <entry key="H2" value="2.9995351517266164" />
+      <entry key="H4" value="2.999767565441211" />
+      <entry key="D1" value="2.999961259459265" />
+      <entry key="W1" value="2.9999944656015853" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,34 +106,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/alexeishmidko/webstorm/interview/frontend/languages/js&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;duplicates.index&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/alexeishmidko/webstorm/interview/frontend/languages/ts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "duplicates.index",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/languages/ts" />
       <recent name="$PROJECT_DIR$/frontend/languages/js" />
       <recent name="$PROJECT_DIR$/frontend/nets" />
       <recent name="$PROJECT_DIR$/frontend/browser/storages" />
       <recent name="$PROJECT_DIR$/frontend/browser/async" />
-      <recent name="$PROJECT_DIR$/frontend/browser/critical-render-path" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/frontend/nets/http" />
@@ -155,7 +158,9 @@
       <workItem from="1787642096630" duration="3538000" />
       <workItem from="1787675598679" duration="389000" />
       <workItem from="1787723395137" duration="4984000" />
-      <workItem from="1787814837306" duration="2600000" />
+      <workItem from="1787814837306" duration="2621000" />
+      <workItem from="1787860922005" duration="4000" />
+      <workItem from="1788149559024" duration="9888000" />
     </task>
     <task id="LOCAL-00001" summary="документация">
       <option name="closed" value="true" />
@@ -181,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787759095075</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="документация">
+      <option name="closed" value="true" />
+      <created>1787855833755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787855833755</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
